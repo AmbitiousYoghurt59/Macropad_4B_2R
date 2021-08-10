@@ -238,7 +238,7 @@ void singleclick4(){                                 // what happens when the bu
 }
 void doubleclick4() {                                // what happens when button is double-clicked
 
-                      Keyboard.println("Pet198181");
+                      Keyboard.println("######");   //Windows password for quick login
 }
 void longclick4(){                                   // what happens when buton is long-pressed
                       Keyboard.press(KEY_RIGHT_GUI);
